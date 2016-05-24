@@ -18,8 +18,7 @@ tasks more quickly.
 
 #### **Windows**
 
-1.  Download the Git for Windows
-    > [installer](https://git-for-windows.github.io/).
+1.  Download the Git for Windows [installer](https://git-for-windows.github.io/).
 
 2.  Run the installer and follow the steps bellow:
 
