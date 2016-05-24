@@ -26,8 +26,7 @@ tasks more quickly.
     4.  Click on "Next".
     5.  Click on "Next".
     6.  **Select "Use Git from the Windows Command Prompt" and click on "Next".** 
-        > If you forgot to do this programs that you need for the workshop will not work properly. 
-        > If this happens rerun the installer and select the appropriate option.
+    > If you forgot to do this programs that you need for the workshop will not work properly. If this happens rerun the installer and select the appropriate option.
     7.  Click on "Next". **Keep "Checkout Windows-style, commit Unix-style line endings" selected.**
     8.  **Select "Use Windows' default console window" and click on "Next".**
     9.  Click on "Next".
